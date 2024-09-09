@@ -7,9 +7,8 @@ This project utilizes a BERT-based model to detect whether a given piece of text
 **Installation
 To get started, clone this repository and install the necessary dependencies:
 ### sh
-git clone https://github.com/your-username/detect-gpt-text-bert.git
-cd detect-gpt-text-bert
-pip install -r requirements.txt
+<img width="411" alt="image" src="https://github.com/user-attachments/assets/62170521-fd84-4903-8412-96f9cc9b7214">
+
 
 
 ## Dependencies
