@@ -5,21 +5,22 @@ This project utilizes a BERT-based model to detect whether a given piece of text
 **Text Classification**: Classify text as either GPT-generated or human-written.
 **Pre-trained Model**: Use a BERT-based model fine-tuned on a dataset of GPT-generated and human-written text.
 **Installation
-**
 To get started, clone this repository and install the necessary dependencies:
-**sh**
+### sh
 git clone https://github.com/your-username/detect-gpt-text-bert.git
 cd detect-gpt-text-bert
 pip install -r requirements.txt
 
-**Dependencies**
+
+## Dependencies
 This project relies on the following Python packages:
 transformers: For BERT and other pre-trained models.
 torch: PyTorch, the deep learning framework used.
 scikit-learn: For additional machine learning utilities.
 numpy and pandas: For data manipulation.
 
-**Data**
+### Data
+
 The dataset used for fine-tuning and evaluation consists of labeled examples of GPT-generated and human-written prompts. You can create your own dataset or use publicly available datasets.
 
 
