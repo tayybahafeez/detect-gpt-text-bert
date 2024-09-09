@@ -29,12 +29,4 @@ To get started, follow these steps:
 ```sh
 git clone https://github.com/your-username/detect-gpt-text-bert.git
 cd detect-gpt-text-bert
-pip install -r requirements.txt
-
-
-
-
-
-
-
-
+pip install -r requirements.txt     
