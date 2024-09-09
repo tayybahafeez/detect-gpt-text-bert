@@ -8,16 +8,6 @@ This project classifies text as either GPT-generated or human-written using a **
 - **Text Classification**: Classify text as either GPT-generated or human-written.
 - **Pre-trained Model**: Utilize a BERT-based model fine-tuned on relevant datasets.
 
-## Installation
-
-To get started, follow these steps:
-
-```sh
-git clone https://github.com/your-username/detect-gpt-text-bert.git
-cd detect-gpt-text-bert
-pip install -r requirements.txt
-
-
 ## Dependencies
 
 This project relies on the following Python packages:
@@ -31,6 +21,19 @@ This project relies on the following Python packages:
 ### Data
 
 The dataset used for fine-tuning and evaluation consists of labeled examples of GPT-generated and human-written prompts. You can create your own dataset or use publicly available datasets.
+
+## Installation
+
+To get started, follow these steps:
+
+```sh
+git clone https://github.com/your-username/detect-gpt-text-bert.git
+cd detect-gpt-text-bert
+pip install -r requirements.txt
+
+
+
+
 
 
 
