@@ -27,6 +27,6 @@ The dataset used for fine-tuning and evaluation consists of labeled examples of 
 To get started, follow these steps:
 
 ```sh
-git clone https://github.com/tayybahafeez/detect-gpt-text-bert.git
+git clone https://github.com/tayybahafeez/gpt-vs-human-text-differentiator-bert-transformer.git
 cd detect-gpt-text-bert
 pip install -r requirements.txt     
